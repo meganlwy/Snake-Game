@@ -1,7 +1,7 @@
 # Snake-Game
 A Snake Game built with Python Turtle Module 🐍
 ![](https://github.com/meganlwy/Snake-Game/blob/main/snake-game-header.png)
-
+Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Demo
 The length of snake body will get longer each time the player successfully eat a yellow dot, latest score will always display on the top of the screen.<br />
