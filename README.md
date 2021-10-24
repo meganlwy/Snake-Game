@@ -8,4 +8,4 @@ The length of snake body will get longer each time the player successfully eat a
 Be aware of hitting the wall or collision with the snake body. Good luck!
 
 ![Hit-the-wall](https://media.giphy.com/media/P5914GqC4scZowRbo7/giphy.gif)
-![Hit-the-body](https://media.giphy.com/media/zfngNc4Ua2wyvCRS4M/giphy.gif)
+![Hit-the-body](https://media.giphy.com/media/OhaB1M1NkOMbX4LmI9/giphy.gif)
